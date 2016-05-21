@@ -1,0 +1,239 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<title>腾讯视频</title>
+<link rel="stylesheet" type="text/css" href="http://imgcache.qq.com/mediastyle/tenvideo/css/404.css?v=20111017" media="screen" />
+<!--[if IE 6]>
+<script type="text/javascript">document.execCommand("BackgroundImageCache", false, true);</script>
+<![endif]-->
+<script language="javascript">
+try{document.domain="qq.com";}catch(e){}
+function picerr(obj,i){
+obj.onerror=null;
+obj.src="http://imgcache.qq.com/mediastyle/tenvideo/img/nopic/"+(i||1)+".jpg";
+}
+</script>
+<script language="javascript">
+var ref=document.referrer.toLowerCase();
+var host=window.location.host;
+if(ref.indexOf(host+"/qplus/")>=0 && ref.indexOf("http://sns.video.qq.com/fcgi-bin/search_c_q")>=0){
+window.location.href="http://"+host+"/qplus/error.html";
+}
+</script>
+</head>
+<body>
+<link rel="stylesheet" href="http://imgcache.qq.com/mediastyle/video_2013/style/head_simple.css?v=20130201&max_age=86400" />
+<div role="banner" class="site_head_simple" id="headSimpleV2">
+<div class="mod_inner">
+<div class="site_logo"><a href="http://v.qq.com/index.html" _hot="simpnav.sort.index" title="返回首页" rel="home">腾讯视频</a></div>
+
+
+<div class="channels_nav" id="modNewSimpleNav">
+<div class="special_channel">
+<a href="http://v.qq.com/"  title="首页" _hot="simpnav.sort.index" class="channel_item channel_home">首页</a>
+<i class="divied"></i><a href="http://v.qq.com/movie/"  title="电影" _hot="simpnav.sort.movie" class="channel_item">电影</a>
+<i class="divied"></i><a href="http://v.qq.com/tv/"  title="电视剧" _hot="simpnav.sort.tv" class="channel_item">电视剧</a>
+<i class="divied"></i><a href="http://v.qq.com/variety/"  title="综艺" _hot="simpnav.sort.variety" class="channel_item">综艺</a>
+<i class="divied"></i><a href="http://v.qq.com/ent/"  title="娱乐" _hot="simpnav.sort.ent" class="channel_item">娱乐</a>
+<i class="divied"></i>
+<div class="channel_more" id="modNavChannels">
+<a href="javascript:;" class="channel_item" id="modSimpleNavMore"><span class="ico_text">更多</span><i class="triangle_down"></i></a>
+<div class="pop_nav_channels pop_nav_channels_left_7">
+<div class="pop_nav_channels_count">
+<div class="channels_list_wrap cf">
+<ul class="channels_list_left">
+<li class="name_3">
+<a href="http://v.qq.com/tv/yingmei/"  title="英美剧" _hot="simpnav.sort.us" class="link"><span>英美剧</span></a>
+</li>
+<li>
+<a href="/news/"  title="新闻" _hot="simpnav.sort.news" class="link"><span>新闻</span></a>
+</li>
+<li>
+<a href="/sports/"  title="体育" _hot="simpnav.sort.sports" class="link"><span>体育</span></a>
+</li>
+<li>
+<a href="/music/"  title="音乐" _hot="simpnav.sort.mv" class="link"><span>音乐</span></a>
+</li>
+<li>
+<a href="/fashion/"  title="时尚" _hot="simpnav.sort.fashion" class="link"><span>时尚</span></a>
+</li>
+<li>
+<a href="/life/"  title="生活" _hot="simpnav.sort.life" class="link"><span>生活</span></a>
+</li>
+<li class="name_3">
+<a href="/doco/"  title="纪录片" _hot="simpnav.sort.doco" class="link"><span>纪录片</span></a>
+</li>
+<li>
+<a href="/cartoon/"  title="动漫" _hot="simpnav.sort.cartoon" class="link"><span>动漫</span></a>
+</li>
+<li>
+<a href="/games/"  title="游戏" _hot="simpnav.sort.games" class="link"><span>游戏</span></a>
+</li>
+<li>
+<a href="/hotshare/"  title="搞笑" _hot="simpnav.sort.hotshare" class="link"><span>搞笑</span></a>
+</li>
+<li>
+<a href="http://v.qq.com/travel/"  title="旅游" _hot="simpnav.sort.travel" class="link"><span>旅游</span></a>
+</li>
+<li class="name_3">
+<a href="/dv/"  title="微电影" _hot="simpnav.sort.dv" class="link"><span>微电影</span></a>
+</li>
+</ul>
+<ul class="channels_list_right">
+
+<li class="name_3">
+<a href="http://film.qq.com/"  target="_blank"  title="好莱坞" _hot="simpnav.sort.film" class="link"><span>好莱坞</span></a>
+</li>
+<li class="name_4">
+<a href="/program/index.htm"  title="腾讯出品" _hot="simpnav.sort.program" class="link"><span>腾讯出品</span></a>
+</li>
+<li>
+<a href="/paike/"  title="拍客" _hot="simpnav.sort.paike" class="link"><span>拍客</span></a>
+</li>
+<li class="name_3">
+<a href="/v/"  title="微讲堂" _hot="simpnav.sort.v" class="link"><span>微讲堂</span></a>
+</li>
+<li>
+<a href="/live/index.html"  title="直播" _hot="simpnav.sort.live" class="link"><span>直播</span></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="mod_quick">
+
+<form action="http://v.qq.com/search.html" class="search_form" method="get" target="_blank" name="sform" id="sform" accept-charset="utf-8">
+<div class="mod_search" role="search">
+<label for="keywords">搜索关键词</label>
+<input type="hidden" name="pagetype" value="3" id="hid_srh_p">
+<input type="hidden" name="stj2" value="search.search" id="searchbox_hid_tj2btn">
+<input type="hidden" name="stag" value="txt.index" id="searchbox_hid_stag">
+<input type="text" id="iWord" class="inp_txt" name="ms_key" maxlength="40" autocomplete="off" x-webkit-speech="" x-webkit-grammar="builtin:search" lang="zh-CN">
+<button class="search_btn" type="submit" _hot="simpnav.soso"><span>搜索</span></button>
+</div>
+<div class="search_suggest_wrap" id="modHeadSearchSuggest" style="display:none;">
+<div class="mod_pop mod_pop_suggest" id="mod_keywords_list">
+<ul id="sgt_list" style=""></ul>
+</div>
+</div>
+</form>
+
+<div class="mod_top_menu">
+<ul class="mod_head_list cf">
+<li class="mod_head_item mod_head_user" id="modSimpleNavLogin">
+<a href="javascript:;" class="user_login" data-type="login" _hot="user.login">登录</a>
+</li>
+<li class="mod_head_item mod_head_user mod_head_user_notice" id="mod_head_user" style="display:none;">
+<a href="http://v.qq.com/u/" class="user_avatar" id="mod_head_notice_trigger" _hot="mynav.userclick.{pagetype}">
+<span class="avatar_img">
+<img src="http://imgcache.gtimg.cn/mediastyle/video_2013/style/img/common/default_avatar.png" alt="用户头像" data-type="avatar"/>
+</span>
+<i class="ico_vip_grey" data-type="viplogo"  style="display:none;"></i>
+<i class="icon_account_qq20" data-type="account_type_logo" style="display: none;"></i>
+</a>
+<sup class="user_notice_dot" style="display:none;" id="mod_nav_user_notice_dot"></sup>
+<!-- 用户头像浮层 开始 -->
+<div class="pop_info_wrap mod_user_pop" id="mod_head_notice_pop">
+<div class="pop_info_main">
+<i class="triangle_up"></i>
+<div class="pop_info_content">
+<div class="user_info cf">
+<div class="user_name">您好，<a href="http://v.qq.com/u/" _hot="mynav.userclick.{pagetype}" class="link_name" data-type="nickname"></a><a href="javascript:void(0);" class="link_quit" data-type="logout">[退出]</a></div>
+</div>
+<div class="user_notice" id="mod_head_notice_content">
+<div class="pop_info_nothing">
+<i class="ico_notice_large"></i>
+<p class="hint_text">您暂时还没有收到新提醒</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="mod_head_item mod_head_history" id="modHistory">
+<a href="http://v.qq.com/u/history/" target="_blank" class="btn_head"><span class="btn_inner" id="toggleHistory"  _hot="mynav.historyclick.{pagetype}">看过<i class="triangle_down"></i></span></a>
+<div class="pop_info_wrap mod_history_pop" id="history_pop">
+<div class="pop_info_main">
+<i class="triangle_up"></i>
+<div class="pop_info_content" id="modHistoryContent"></div>
+</div>
+</div>
+</li>
+<li class="mod_head_item mod_head_attention" id="mod_head_favorites">
+<a href="http://v.qq.com/u/playlist.html" target="_blank" _hot="mynav.followclick.{pagetype}" class="btn_head" id="mod_head_favorites_trigger"  _hot="mynav.followclick.{pagetype}"><span class="btn_inner">看单<i class="triangle_down"></i></span></a>
+<div class="pop_info_wrap mod_attention_pop mod_attention_pop_login" id="mod_head_favorites_pop">
+<div class="pop_info_main">
+<i class="triangle_up"></i>
+<div class="pop_info_content" id="mod_head_favorites_content">
+<div class="pop_info_nothing pop_info_login">
+<a href="javascript:;" class="btn_login">登录</a>
+<p class="hint_text">请登录查看看单</p>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="mod_head_item mod_head_upload">
+<a href="http://v.qq.com/u/upload.html" target="_blank" _hot="mynav.upload.{pagetype}" class="btn_head"><span class="btn_inner">上传</span></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+<div class="container_16 clearfix">
+<div class="grid_16">
+
+<div class="mod_error_message">
+<h2>很抱歉，您所请求的页面不存在或链接错误。</h2>
+<p>
+<span id="mod_second" class="c_txt3">5</span> 秒后自动跳转到 <a class="unline" href="http://v.qq.com/index.html">腾讯视频首页</a>
+</p>
+</div>
+<script language="javascript">
+(function(){
+	var modS = document.getElementById("mod_second");
+	if ( !! modS) {
+		var countsecond = 5;
+		var timer = setInterval(function() {
+			countsecond = countsecond - 1;
+			if (countsecond == 0 || isNaN(countsecond)) {
+				clearInterval(timer);
+				window.location.href = "http://v.qq.com/index.html"
+			} else {
+				modS.innerHTML = "" + countsecond;
+			}
+		}, 1000);
+	}
+})();
+</script>
+</div>
+</div>
+<div class="foot">
+<p class="footermenu">
+<a href="http://www.tencent.com/" rel="nofollow" target="_blank">关于腾讯</a> |
+<a href="http://www.tencent.com/index_e.shtml" rel="nofollow" target="_blank">About Tencent</a> |
+<a href="http://www.qq.com/contract.shtml" rel="nofollow" target="_blank">服务条款</a> |
+<a href="http://adver.qq.com/" rel="nofollow" target="_blank">广告服务</a> |
+<a href="http://hr.tencent.com/" rel="nofollow" target="_blank">腾讯招聘</a> |
+<a href="http://service.qq.com/" rel="nofollow" target="_blank">客服中心</a> |
+<a href="http://www.qq.com/map/" rel="nofollow" target="_blank">网站导航</a>
+</p>
+<p class="copyrighten">Copyright &copy; 1998 - <span><script language="javascript">document.write(new Date().getFullYear());</script></span> Tencent. <a target="_blank" href="http://www.tencent.com/en-us/le/copyrightstatement.shtml" rel="nofollow">All Rights Reserved.</a></p>
+<p class="copyrightzh">腾讯公司 <a  target="_blank" href="http://www.tencent.com/zh-cn/le/copyrightstatement.shtml" rel="nofollow">版权所有</a> <a  target="_blank" href="http://www.tencent.com/law/mo_law.shtml?/law/copyright.htm" rel="nofollow">腾讯网络文化经营许可证</a></p>
+</div>
+
+
+<script type="text/javascript" src="http://qzs.qq.com/tencentvideo_v1/js/txv.base.min.js?v=20130715&max_age=604800"></script>
+<script language="javascript">
+txv.common.initPage();
+</script>
+</body>
+</html>
